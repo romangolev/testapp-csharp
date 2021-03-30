@@ -1,0 +1,15 @@
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/testapp.deps.json
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/testapp.runtimeconfig.json
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/testapp.runtimeconfig.dev.json
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/testapp.dll
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/ref/testapp.dll
+/Users/romangolev/Documents/testapp/bin/Debug/net5.0/testapp.pdb
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.csprojAssemblyReference.cache
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.AssemblyInfoInputs.cache
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.AssemblyInfo.cs
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.csproj.CoreCompileInputs.cache
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.dll
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/ref/testapp.dll
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.pdb
+/Users/romangolev/Documents/testapp/obj/Debug/net5.0/testapp.genruntimeconfig.cache
